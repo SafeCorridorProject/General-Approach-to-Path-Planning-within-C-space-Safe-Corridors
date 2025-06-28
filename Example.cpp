@@ -84,7 +84,7 @@
 #include "chrono_irrlicht/ChIrrTools.h"
 #include "ChPlanner.h"
 #include "GbpfAlgorithmCube.h"
-#include "CAD_export/comau_racer_export_2.h"
+#include "CAD_export_new/new_coll.h"
 #include "ChRobot_6dof_CAD.h"
 #include "ChRobot_6dof_free.h"
 #include "ChRobot_6dof_CAD_free.h"
