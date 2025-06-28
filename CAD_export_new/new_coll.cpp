@@ -37,7 +37,7 @@ chrono::ChCollisionModel::SetDefaultSuggestedEnvelope(0.003);
 chrono::ChCollisionModel::SetDefaultSuggestedMargin(0.003);
 chrono::ChCollisionSystemBullet::SetContactBreakingThreshold(0.002);
 
-std::string shapes_dir = "new_coll_shapes/";
+std::string shapes_dir = "CAD_export_new/new_coll_shapes/";
 
 // Prepare some data for later use
 std::shared_ptr<chrono::ChVisualShapeModelFile> body_shape;
